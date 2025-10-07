@@ -10,10 +10,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
-
-Total Time: 15 mins
-
 Python   15 mins         █████████████████████████   100.00 %
 ```
 
