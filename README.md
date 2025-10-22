@@ -10,11 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         9 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.83 %
-Python       8 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   43.15 %
-Bash         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+From: 14 October 2025 - To: 21 October 2025
+
+Total Time: 16 hrs 33 mins
+
+Python     8 hrs 4 mins    ████████████▒░░░░░░░░░░░░   48.76 %
+JSON       7 hrs           ██████████▓░░░░░░░░░░░░░░   42.27 %
+Bash       1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
