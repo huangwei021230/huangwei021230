@@ -20,4 +20,4 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
   
-[![Ashutosh00710 - WakaTime Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a202c&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh00710 - WakaTime Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huangwei021230&bg_color=1a202c&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
