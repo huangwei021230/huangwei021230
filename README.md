@@ -1,9 +1,6 @@
 ### Hi there 👋
 - Research on MLSys
 - Phd Student in SJTU
-  
-[![Huang Wei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huangwei021230&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 - Work, Study, Eat, Sleep
 
 
@@ -16,3 +13,6 @@ Bash     0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+  
+[![Ashutosh00710 - WakaTime Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a202c&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
