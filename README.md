@@ -7,9 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 hrs 23 mins   ████████████████▓░░░░░░░░   67.18 %
-JSON     3 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+From: 14 November 2025 - To: 21 November 2025
+
+Total Time: 10 hrs 53 mins
+
+Python   7 hrs 10 mins   ████████████████▒░░░░░░░░   65.81 %
+JSON     3 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.23 %
 Bash     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
