@@ -7,10 +7,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2025 - To: 05 December 2025
-
-Total Time: 16 hrs 29 mins
-
 Python     11 hrs 35 mins  █████████████████░░░░░░░░   68.65 %
 Rust       3 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.65 %
 JSON       1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
