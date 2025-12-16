@@ -7,11 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 3 mins    █████████████████████▓░░░   86.25 %
-Bash         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Rust         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-SSH Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+From: 08 December 2025 - To: 15 December 2025
+
+Total Time: 6 hrs 14 mins
+
+Python   5 hrs 42 mins   ███████████████████████░░   91.65 %
+Bash     31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
