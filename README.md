@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     10 hrs 13 mins  █████████████████████████   99.99 %
+From: 14 December 2025 - To: 21 December 2025
+
+Total Time: 10 hrs 49 mins
+
+Python     10 hrs 49 mins  █████████████████████████   99.99 %
 Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
