@@ -7,9 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     10 hrs 30 mins  █████████████████████████   99.99 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+From: 16 December 2025 - To: 23 December 2025
+
+Total Time: 6 hrs 19 mins
+
+Python   6 hrs 19 mins   █████████████████████████   99.99 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
