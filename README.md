@@ -7,8 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 47 mins   ████████████████████████▒   96.97 %
-SSH Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+From: 20 December 2025 - To: 27 December 2025
+
+Total Time: 3 hrs 53 mins
+
+Python       3 hrs 46 mins   ████████████████████████▒   96.95 %
+SSH Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
