@@ -7,10 +7,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
-
-Total Time: 2 hrs 58 mins
-
 Python     2 hrs 54 mins   ████████████████████████▒   97.50 %
 Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
