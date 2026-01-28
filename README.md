@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             14 hrs 15 mins  ██████████████████▓░░░░░░   75.23 %
-Bash               3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-JSON               1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-TOML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Git Config         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+From: 20 January 2026 - To: 27 January 2026
+
+Total Time: 17 hrs 25 mins
+
+Python             12 hrs 59 mins  ██████████████████▓░░░░░░   74.61 %
+Bash               2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+JSON               1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+TOML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Git Config         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
