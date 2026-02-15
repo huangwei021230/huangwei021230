@@ -7,10 +7,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2026 - To: 14 February 2026
-
-Total Time: 27 hrs 58 mins
-
 Python       26 hrs 11 mins  ███████████████████████▒░   93.62 %
 JSON         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
