@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 34 mins        ███████████░░░░░░░░░░░░░░   44.49 %
-Bash         6 hrs 27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-Other        5 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-Markdown     2 hrs 35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Text         37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+From: 26 May 2026 - To: 02 June 2026
+
+Total Time: 24 hrs 34 mins
+
+Python       13 hrs 34 mins  ███████████░░░░░░░░░░░░░░   44.49 %
+Bash         6 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+Other        5 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Markdown     2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Text         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
