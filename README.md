@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 37 mins         ████████▓░░░░░░░░░░░░░░░░   34.37 %
-Markdown      5 hrs 17 mins         ████████░░░░░░░░░░░░░░░░░   32.26 %
-Image (svg)   2 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Other         2 hrs 7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-JSON          34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+From: 02 August 2026 - To: 09 August 2026
+
+Total Time: 13 hrs 32 mins
+
+Python        5 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.64 %
+Markdown      4 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Image (svg)   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Other         2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+JSON          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
