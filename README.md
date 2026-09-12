@@ -7,8 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX     55 mins               ██████████████████████░░░   88.60 %
-Other   7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+From: 04 September 2026 - To: 11 September 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
