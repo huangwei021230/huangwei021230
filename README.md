@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   16 hrs 58 mins        █████████▓░░░░░░░░░░░░░░░   38.65 %
-Python     14 hrs 59 mins        ████████▓░░░░░░░░░░░░░░░░   34.15 %
-Other      5 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-TeX        5 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Bash       37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+From: 01 October 2026 - To: 08 October 2026
+
+Total Time: 34 hrs 52 mins
+
+Markdown   16 hrs 20 mins  ██████████░░░░░░░░░░░░░░░   39.40 %
+Python     10 hrs 44 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+TeX        6 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Other      6 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Bash       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
