@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     15 hrs 38 mins        ████████████▓░░░░░░░░░░░░   51.17 %
-TeX        7 hrs 40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-Markdown   5 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-Other      1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JSON       10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+From: 05 October 2026 - To: 12 October 2026
+
+Total Time: 22 hrs 17 mins
+
+Python     12 hrs 51 mins  █████████████░░░░░░░░░░░░   52.50 %
+TeX        7 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+Other      2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Markdown   1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JSON       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
