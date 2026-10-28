@@ -7,11 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 8 mins          ███████████████▓░░░░░░░░░   62.44 %
-Markdown   1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Text       1 hr 5 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Other      31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Rust       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+From: 20 October 2026 - To: 27 October 2026
+
+Total Time: 16 hrs 6 mins
+
+Python     8 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.81 %
+Rust       3 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+Markdown   2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Other      1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Text       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
